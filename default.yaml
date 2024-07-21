@@ -33,7 +33,7 @@ switcher:
   option_list_separator: '／'
 
 menu:
-  page_size: 9 #候选项数
+  page_size: 5 #候选项数
   
 style:
   horizontal: false #横排为true
