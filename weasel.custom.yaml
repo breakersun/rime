@@ -10,7 +10,7 @@ patch:
     font_face: "微软雅黑" # 应用的字体
     font_point: 14 # 字号大小
     horizontal: false # 候选栏横排显示
-    inline_preedit: false # 隐藏打字栏
+    inline_preedit: true # 隐藏打字栏
     display_tray_icon: false # 不显示托盘图标
     layout:
       border_width: 2 # 边框宽度
