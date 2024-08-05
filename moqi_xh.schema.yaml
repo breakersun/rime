@@ -164,6 +164,8 @@ translator:
 key_binder:
   import_preset: default
   bindings:
+    # vim mode
+    - { when: always, accept: Release+Escape, toggle: ascii_mode}
     #- { when: composing, accept: Tab, send: '[' } ## 取消注释后：tab引导辅助码
     - { when: composing, accept: Control+m, send: Return }
     - { when: composing, accept: Control+w, send: Control+BackSpace }

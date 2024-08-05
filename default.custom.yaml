@@ -6,4 +6,4 @@ customization:
   rime_version: 1.11.2
 patch:
   schema_list:
-    - {schema: flypy_flypy}
+    - {schema: moqi_xh}
